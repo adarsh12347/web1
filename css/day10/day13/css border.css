@@ -1,0 +1,115 @@
+#solid{
+width: 300px;
+border-width: 15px;
+border-width:solid;
+border-style: solid;
+border-color: red;
+}
+#double{
+    width: 300px;
+    border: width 15px;
+    border-style: double;
+    border-color: orange;
+
+}
+#dash{
+width: 300px;
+border: width 15px;
+border-style: dashed;
+border-color: green;
+
+}
+#dot{
+    width: 300px;
+    border: width 15px;
+    border-style: dotted;
+    border-color: blueviolet;
+
+
+}
+h1{
+    float: left;
+}
+#inset{
+    border-width: 25px;
+    border-color: lightblue;
+    border-style: inset;
+
+}
+#outset{
+    border: width 25px;
+    border-color: orange;
+    border-style: outset;
+    border-style: none;
+
+}
+#ridge{
+    border-width: 25px;
+    border-color: blueviolet;
+    border-style: ridge;
+
+}
+#groove{
+    border-width: 25px;
+    border-color: aqua;
+    border-style: groove;
+
+}
+#border{
+    border: 15px solid red;
+    border-left: 15px solid green;
+    border-top:  15px dotted orange;
+    border-right: 20px dashed yellow;
+    border-bottom:  20px solid violet;
+
+}
+div{
+    width: 300px;
+    height: 300px;
+    border: 10px solid;
+    float: left;
+}
+#circle1{
+    border-radius: 100px;
+    border-radius: 100%;
+    background-color: yellowgreen;
+
+}
+#circle2{
+    border-radius: 100px;
+    border-radius: 100%;
+    background-color: yellowgreen;
+    
+
+}
+#cicrle2{
+    border-radius: 100px 20px;
+    border-radius:  50% 100%;
+    background-color: yellowgreen;
+    
+
+}
+#circle3{
+    border-radius: 100px;
+    border-radius: 100% 0% 100% 0% 100%;
+    background-color: yellowgreen;
+    }
+#ellipse1{
+    border-radius: 100%/50%;
+    border-radius: 100% 0% 100% 0%/100% 0% 100% 0%;
+    background-color: red;
+
+}
+#ellipse2{
+    border-radius:100% 30%/50% 10% ;
+    border-radius:  100% 0% 100% 0%;
+    background-color: yellowgreen;
+
+}
+#ellipse3{
+    border-radius: ;
+    border-radius: ;
+    background-color: yellowgreen;
+
+}
+

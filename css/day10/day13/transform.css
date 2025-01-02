@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+img:hover{
+    transform: rotate(360deg);
+    transform: rotate(360deg);
+    transform: rotateY(360deg);
+    transform: rotateZ(360deg);
+
+    transform: translateX(500px);
+    transform: translateY(500px);
+    transform: translate(500px,300px
+    );
+    transform: skew(360deg);
+}

@@ -1,0 +1,109 @@
+ /* *{
+    margin: 0px;
+    padding: 0px;
+
+} 
+h1{
+    text-transform: lowercase;
+    text-transform: uppercase;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: 5PX solid RED underline;
+    text-decoration: 5PX dashed red overline;
+    text-decoration: 5PX dotted RED line-through;
+    text-decoration: 5PX wavy red underline;
+    text-decoration: 5PX double RED overline;
+
+
+}
+#anchor{
+    text-decoration: none;
+}
+#para{
+    line-height: 0px;
+    line-height: 50px;
+    font-size: 40px;
+    font-weight: bold;
+    font-weight: 900;
+    font-style: italic;
+}
+#font{
+
+
+}
+#p1{
+    text-indent: 400px;
+    text-align: left;
+    text-align: right;
+    text-align: center;
+    text-align: justify;
+    text-shadow: 50px 10px 3px;
+} */
+/* img{
+    width: 30%;
+    margin: 10vw 33vw;
+    border-radius: 100%;
+    box-shadow: 15px 15px 15px brown
+}
+h2{
+    width: 100%;
+    height: 500px;
+    font-size: 200px;
+    background-image: url(../../../Asserts/images/iron-man-tony-stark.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: transparent;
+    -webkit-background-clip: text;
+} */
+/* *{
+    margin:0px;
+    padding: 0px;
+}
+/* link state Represents,link not visited by the user */
+/* pseudoclass */
+/* a:link{
+    background-color: black;
+    color: white;
+}
+/* visited sate link visited by the user */
+/*a:visited{
+    background-color: lawngreen;
+    counter-reset: black;
+}
+
+a:hover{
+    background-color: red;
+    color: orange;
+}
+
+a:active{
+    background-color: aqua;
+    color: pink;
+}  */
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+#container{
+    width: 600px;
+    height: 600px;
+    background-color: red;
+    background-image: url(../../../Asserts/images/ram.jiff);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#pk,#rc{
+    text-align: center;
+    font-size: 80px;
+}
+#pk{
+    padding-top: 400px;
+    color: lawngreen;
+    font-family: cursive;
+}
+#rc{
+    color: transparent;
+}

@@ -1,0 +1,79 @@
+/* input{
+    background-color: rgb(197, 143, 72);
+}
+*body{
+    margin: 0px;
+padding: 0px;
+}
+input::placeholder{
+    color: red;
+    background-image: linear-gradient(75deg,red,green,purple,cyan,blue,orangered);
+    background-repeat: no-repeat;
+    color: transparent;
+    -webkit-background-clip: text;
+    letter-spacing: 3px;
+    word-spacing: 5px;text-transform: uppercase;
+    font-family: cursive;
+    font-weight: bold;
+    
+} */
+/* h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 50px;
+}
+h1::after{
+    content:'🍎';
+}
+h2::before{
+    content:'🧡';
+}
+p::first-line{
+    color: red;
+    font-size: 60px;
+
+
+}
+p::first-letter{
+    color: blue;
+    font-size: 80px;
+    font-family: cursive;
+}
+p::selection{
+    background-color: black;
+    color:lawngreen;
+
+}
+li{
+    font-size: 60px;
+    color: red;
+}
+li::marker{
+    color: blue;
+    content: '@';
+    content: '#';
+    content: url(../../../Asserts/images/venom-vs-spider-man.gif);
+} */
+#container{
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    overflow: hidden;
+    overflow: visible;
+    overflow: scroll;
+    overflow-y: scroll; 
+    overflow-x: scroll;
+    overflow-x:hidden ;
+}
+container::-webkit-scrollbar{
+    width: 80px;
+    
+    border-radius: 50px;
+}
+#continer::-webkit-scrollbar-thumb{
+    background-image: url(../../../Asserts/images/fishing-8842590_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 60px 60px;
+    background-size: 10px;
+}#

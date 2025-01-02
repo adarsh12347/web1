@@ -1,0 +1,14 @@
+body{
+    width: 50%;
+    height: 500vh;
+    background-image: url(../../../Asserts/images/pexels-philippedonn-1257860.jpg),url(../../../Asserts/images/pexels-pixabay-41953-removebg-preview.png),url(../../../Asserts/images/pexels-pixabay-41953.jpg)
+    ;
+    background-repeat: repeat,repeat,no-repeat;
+    background-size: 50%,25%,100%,100%;
+    background-position: top left;
+    background-attachment:scroll fixed fixed;
+    img{
+        width: 15%;
+        float: right;
+    }
+}

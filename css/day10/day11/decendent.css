@@ -1,0 +1,57 @@
+
+
+
+grandfather{
+    background-color:violet;
+    height: 500px;
+    width: 60%;
+}
+#father #you,#sibling{
+    background-color: red;
+    font-size: 20px;
+    font-style: italic
+
+}
+
+#father{
+    height:30% ;
+    width: 30%;
+    background-color: chocolate;
+    float: left;
+
+}
+#babai{
+    height:40% ;
+    width:30% ;
+    background-color: chartreuse;
+    float: left;
+
+}
+#you{
+    float: left;
+    height: 30%;
+    width: 30%;
+    border: 5px solid black;
+}
+#sibling{
+    float: left;
+    height: 40%;
+    width: 40%;
+    border: 5px solid black;
+}
+#cusion1{
+    float: left;
+    height: 40%;
+    width: 40%;
+    background-color: blueviolet;
+    border: 5px solid black;
+
+}
+#cusion2{
+    float: left;
+    height: 40%;
+    width: 40%;
+    background-color: blueviolet;
+    border: 5px solid black;
+
+}
